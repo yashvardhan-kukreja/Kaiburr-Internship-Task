@@ -1,0 +1,19 @@
+version: "3"
+services:
+  python_app:
+    container_name: "flask-app"
+    build: .
+    volumes:
+      - ".:/usr/src/app"
+    ports:
+      - "5000:5000"
+    links:
+      - mongodb
+  mongodb:
+    container_name: "mongodb-2"
+    image: mongo
+    volumes:
+      - "./data/db:/usr/data/db"
+    ports:
+      - "27017:27017"
+    command: mongod

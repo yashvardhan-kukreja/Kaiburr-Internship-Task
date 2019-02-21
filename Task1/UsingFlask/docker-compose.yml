@@ -1,0 +1,22 @@
+version: "3"
+services:
+  python_app:
+    container_name: "flask-app"
+    build: .
+    volumes:
+      - ".:/usr/src/app"
+    ports:
+      - "5000:5000"
+    environment:
+      - REMOTE_DB=mongodb://yash:yash98@ds147125.mlab.com:47125/kaiburr-task
+      - LOCAL_DB=mongodb://mongodb:27017/kaiburr-task
+    links:
+      - mongodb
+  mongodb:
+    container_name: "mongodb-2"
+    image: mongo
+    volumes:
+      - "./data/db:/usr/data/db"
+    ports:
+      - "27017:27017"
+    command: mongod
