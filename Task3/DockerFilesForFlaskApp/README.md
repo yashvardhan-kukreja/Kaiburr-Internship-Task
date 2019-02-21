@@ -1,8 +1,8 @@
-#### Task 3:
+### Task 3:
 
 ---------
 
-##### Description
+### Description
 Docker integration to task 1
 
 Docker images used:

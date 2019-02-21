@@ -1,10 +1,12 @@
-#### Task 1:
+### Task 1: 
+Screenshots of POSTman depicting the testing of different routes with their respective responses are in the "screenshots" folder
+
 
 ---------
 
-##### Base URL - http://0.0.0.0:5000
+### Base URL - http://0.0.0.0:5000
 
-##### Routes
+### Routes
 - **GET /** -> fetches all the server objects from the DB
 - **GET /?server=<server_id>** -> fetches the server object corresponding to server_id
 - **PUT /** => *Body ("name", "id", "language", "framework")* -> Adds an object to the DB with the provided details
@@ -13,7 +15,7 @@
 
 ---------
 
-##### Description
+### Description
 
 Python version used while development: 3.5.4
 Software used for testing: POSTman
@@ -31,7 +33,3 @@ Application Details: <br>
  - Port on which app runs: 5000
 
 ------
-
-##### Screenshots of POSTman depicting the testing of different routes with their respective responses are in the "screenshots" folder
-
--------

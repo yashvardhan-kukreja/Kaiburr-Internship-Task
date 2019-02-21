@@ -26,26 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="API.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="14" lean-forward="true" selection-end-line="36" selection-end-column="7" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="API2.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/API2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="288">
-                <caret line="18" lean-forward="true" selection-end-line="18" />
+              <first_editor relative-caret-position="240">
+                <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -92,6 +78,7 @@
         <option value="$PROJECT_DIR$/script.py" />
         <option value="$PROJECT_DIR$/API.md" />
         <option value="$PROJECT_DIR$/API2.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -300,11 +287,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API.md">
+    <entry file="file://$PROJECT_DIR$/API2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="14" lean-forward="true" selection-end-line="36" selection-end-column="7" />
+          <first_editor relative-caret-position="288">
+            <caret line="18" lean-forward="true" selection-end-line="18" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -312,11 +299,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API2.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="18" lean-forward="true" selection-end-line="18" />
+          <first_editor relative-caret-position="240">
+            <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
