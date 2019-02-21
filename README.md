@@ -24,6 +24,6 @@ More comprehensive documentation is provided in the task 1 folder of this repo
 Implemented Docker support for the task 1<br><br>
 Implemented the image for flask server execution straight from the Ubuntu image and linked it with mongo image
 
-More comprehensive documentation is provided in the task 1 folder of this repo
+More comprehensive documentation is provided in the task 3 folder of this repo
 
 
